@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I'm what I'm and I always look to better myself
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sampath Kumar Bidre. I'm  .......
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- An IT Professional 
+- A Jump Roper
+- An avid Adventure Seeker 
 
 What else do you need?
 
-### my history
+### my StressBusters
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Dancing,Jump Roping,Trekking,Binge watching Shounen Anime,Listening to good-old 80's and 90's Rock Music
+why don't you just watch [my first flashmob](https://www.youtube.com/watch?v=qXvI74Wphhc) and it will showcase my **love** for dance.
+Checkout my Insta Handle [here] (https://www.instagram.com/sampathkumarb/) to get to know a bit more about me instead of me blabbering about myself.   
